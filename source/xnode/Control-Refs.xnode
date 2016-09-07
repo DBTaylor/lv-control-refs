@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XNode LVVersion="15008000">
+	<Property Name="NI.Lib.Description" Type="Str">Outputs a cluster of references to all controls and indicators on the owning diagram.</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+X!!!*Q(C=\:5R&lt;F."%)&lt;`25BR%U7_1)1C/9V@A_9#&amp;$G!82BO-&amp;&gt;)[UB"_!L45@M+0A(+6/F^":=)21DTP=UG#IH"!I'5AFG0`@;@X:HP\?Z\FKI.J*@;\D0^UO\CVT`9DHCZ+/0RZV,YD(@&amp;X`&lt;R]7QW']`'VZ`O\4\?F@+[DT.IZ`Q^^88]U(&lt;&amp;S^&gt;S?&amp;#K\9T@P#O(NX:Q`*20R_.3$KI2`^X[6Y`M38T]L5R(IV+[SP=U@N/6[&lt;3&lt;&gt;.VU-JVU6Y`ZLJAU+&gt;W,UV(8H9Z'4_@PK@^T_R^`\P(^D`&gt;]\["`&lt;&amp;+JJ(DCA4NO^?[WC:\IC:\IC:\IA2\IA2\IA2\IDO\IDO\IDO\IBG\IBG\IBG\IN;%,8?B#:V73YEGB*'G3)"E-CJ+PB#@B38A3(LJ+?"+?B#@B38A9II1HY5FY%J[%BWF+?"+?B#@B38B)65GS.H2Y%B\3+_!*?!+?A#@AI;1#HA!A+"9E$J+!I3!98!1]!5`!Q[5#HI!HY!FY!B\##HA#HI!HY!FYG&amp;*8*3J.X^$B)9U=(I@(Y8&amp;Y("Z3S_&amp;R?"Q?B]@BI:Q=(I@(A8!+/MF"E$0*'?"U("[(BR]Z0![0Q_0Q/$S%[AZZ8:G?JG`I]"A]"I`"9`!90+31Q70Q'$Q'D]&amp;$7BE]"I`"9`!90*33Q70Q'$Q'C&amp;'5]D+3'2/.19:A]0#JJ]8K,E5FM&gt;L;IXF\5.5/I.L"5DMQ;A&gt;"&lt;906.EZN1^177GU"V2:'\9&lt;6&lt;E1.5+WQ7E+VA&gt;LQP=:8_"*@Y/@Y$$`$4`"B0`5P$^RM.FKPVVKN6FIOFVIM&amp;DI`0R&gt;`]TI\/^0*S9G'Q_(^W_I6\&gt;&lt;+X8NJTP8&amp;^EOZ?$0!D\98'N4_P0?0AT+@(WXH]U(N@]$@%\`5U@;3X\\@T`]4PXUP09&gt;XIVZI__!VTRJ^"S+B=0E!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
+	<Property Name="NI.Lib.Version" Type="Str">0.0.0.0</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">LV-Control Refs</Property>
+	<Property Name="NI.XClass.Name" Type="Str">LV-Control Refs</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">LV-Control Refs</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Property Name="XNode_Manager" Type="Str">1.5</Property>
+	<Item Name="State.ctl" Type="Ability VI" URL="../State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="AdaptToInputs.vi" Type="Ability VI" URL="../AdaptToInputs.vi">
+		<Property Name="NI.XItem.Name" Type="Str">AdaptToInputs</Property>
+	</Item>
+	<Item Name="BuildMenu3.vi" Type="Ability VI" URL="../BuildMenu3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">BuildMenu3</Property>
+	</Item>
+	<Item Name="DoubleClick.vi" Type="Ability VI" URL="../DoubleClick.vi">
+		<Property Name="NI.XItem.Name" Type="Str">DoubleClick</Property>
+	</Item>
+	<Item Name="GenerateCode.vi" Type="Ability VI" URL="../GenerateCode.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GenerateCode</Property>
+	</Item>
+	<Item Name="GetTerms3.vi" Type="Ability VI" URL="../GetTerms3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetTerms3</Property>
+	</Item>
+	<Item Name="Image.vi" Type="Ability VI" URL="../Image.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Image</Property>
+	</Item>
+	<Item Name="SelectMenu3.vi" Type="Ability VI" URL="../SelectMenu3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">SelectMenu3</Property>
+	</Item>
+	<Item Name="GetErrors3.vi" Type="Ability VI" URL="../GetErrors3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetErrors3</Property>
+	</Item>
+	<Item Name="Copy.vi" Type="Ability VI" URL="../Copy.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Copy</Property>
+	</Item>
+</XNode>
