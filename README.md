@@ -6,7 +6,7 @@ LV-Control-Refs is an open source LabVIEW XNode. When placed on a block diagram 
 Installation
 ------------
 
-[The most recent VI Package (.vip) can be downloaded here.](https://github.com/DBTaylor/lv-scripting/releases)
+[The most recent VI Package (.vip) can be downloaded here.](https://github.com/DBTaylor/lv-control-refs/releases)
 
 Open the VI Package using [VI Package Manager](http://vipm.jki.net/) and press ***Install***.
 
@@ -15,4 +15,4 @@ In LabVIEW, The LV-Control-Refs palette can be found in the ***Addons*** palette
 Dependencies
 ------------
 
-LV-Control-Refs depends on [LV-Scripting](https://github.com/DBTaylor/lv-control-refs/releases)
+LV-Control-Refs depends on [LV-Scripting](https://github.com/DBTaylor/lv-scripting/releases)
