@@ -36,9 +36,6 @@
 	<Item Name="SelectMenu3.vi" Type="Ability VI" URL="../SelectMenu3.vi">
 		<Property Name="NI.XItem.Name" Type="Str">SelectMenu3</Property>
 	</Item>
-	<Item Name="GetErrors3.vi" Type="Ability VI" URL="../GetErrors3.vi">
-		<Property Name="NI.XItem.Name" Type="Str">GetErrors3</Property>
-	</Item>
 	<Item Name="Copy.vi" Type="Ability VI" URL="../Copy.vi">
 		<Property Name="NI.XItem.Name" Type="Str">Copy</Property>
 	</Item>
