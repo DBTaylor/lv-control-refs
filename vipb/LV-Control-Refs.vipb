@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-09-06 16:23:01" Modified_Date="2016-09-10 12:25:31" Creator="David Taylor" Comments="" ID="47d351d132771f790d0e319877a1a814">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-09-06 16:23:01" Modified_Date="2016-09-10 21:25:26" Creator="David Taylor" Comments="" ID="f4af30df7307bc4de0887bb847b84a80">
   <Library_General_Settings>
     <Package_File_Name>LV_Control_Refs</Package_File_Name>
-    <Library_Version>0.1.0.2</Library_Version>
+    <Library_Version>0.1.1.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\source</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\lv-control-refs</Library_Output_Folder>
@@ -125,9 +125,9 @@
         <Namespace>LV-</Namespace>
       </Namespace_Overrides>
     </Source_Files>
-    <License_Agreement_Filepath/>
+    <License_Agreement_Filepath>..\LICENSE.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
-      <License_LF_file_path>..\LICENSE.txt</License_LF_file_path>
+      <License_LF_file_path/>
       <Licensed_library_file_path/>
       <Perform_License_Binding>false</Perform_License_Binding>
       <Purchase_URL/>
@@ -223,7 +223,7 @@
         <Path>..\source\wrapper\Control Refs Wrapper.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CAAEDD989D758D45E85E7AE3A2EF7A5D</GUID>
+      <GUID>0E21E4D0D8F03AC545D61D201D4E05B1</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
